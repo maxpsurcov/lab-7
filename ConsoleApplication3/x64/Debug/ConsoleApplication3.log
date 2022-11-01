@@ -1,0 +1,12 @@
+﻿  ConsoleApplication3.cpp
+C:\Users\Admin\Desktop\lab-7-main\ConsoleApplication3\ConsoleApplication3.cpp(29,17): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\Desktop\lab-7-main\ConsoleApplication3\ConsoleApplication3.cpp(56,17): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\Desktop\lab-7-main\ConsoleApplication3\ConsoleApplication3.cpp(80,66): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\Admin\Desktop\lab-7-main\ConsoleApplication3\ConsoleApplication3.cpp(83,17): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\Desktop\lab-7-main\ConsoleApplication3\ConsoleApplication3.cpp(108,61): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\Admin\Desktop\lab-7-main\ConsoleApplication3\ConsoleApplication3.cpp(113,21): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\Desktop\lab-7-main\ConsoleApplication3\ConsoleApplication3.cpp(136,61): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\Admin\Desktop\lab-7-main\ConsoleApplication3\ConsoleApplication3.cpp(141,17): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\Desktop\lab-7-main\ConsoleApplication3\ConsoleApplication3.cpp(163,61): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\Admin\Desktop\lab-7-main\ConsoleApplication3\ConsoleApplication3.cpp(166,17): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  ConsoleApplication3.vcxproj -> C:\Users\Admin\Desktop\lab-7-main\x64\Debug\ConsoleApplication3.exe
